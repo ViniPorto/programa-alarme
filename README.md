@@ -1,3 +1,2 @@
 # teste
-apenas testando
-teste 2
+este é meu repositório git xD
